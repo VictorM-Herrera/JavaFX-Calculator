@@ -1,0 +1,79 @@
+/* Fondo general de la ventana */
+.window-root {
+    -fx-background-color: #121212;
+    -fx-font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+/* Barra de título */
+.title-bar {
+    -fx-background-color: #1e1e1e;
+    -fx-border-color: #2c2c2c;
+    -fx-border-width: 0 0 1 0;
+}
+
+.title-icon {
+    -fx-font-size: 14px;
+}
+
+.title-text {
+    -fx-text-fill: #f0f0f0;
+    -fx-font-size: 13px;
+}
+
+.window-button{
+    -fx-background-color: transparent;
+    -fx-text-fill: #cccccc;
+    -fx-font-size: 12px;
+    -fx-padding: 2 10 4 10;
+    -fx-background-radius: 0;
+    -fx-border-width: 0;
+}
+.window-button:hover{
+    -fx-background-color: #2a2a2a;
+}
+
+#btnClose:hover {
+    -fx-background-color: #b91c1c;
+}
+/* ////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* Área de contenido */
+.calc-root {
+    -fx-spacing: 10;
+    -fx-padding: 10;
+}
+.display-area {
+    -fx-background-color: #1c1c1c;
+    -fx-padding: 4 8 4 8;
+    -fx-background-radius: 6;
+}
+.expression-label {
+    -fx-text-fill: #aaaaaa;
+    -fx-font-size: 10px;
+}
+.result-label {
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+.buttons-grid {
+    -fx-padding: 5 0 0 0;
+}
+.calc-button {
+    -fx-min-width: 60;
+    -fx-min-height: 60;
+    -fx-pref-width:120;
+    -fx-pref-height:120;
+    -fx-background-color: #2b2b2b;
+    -fx-text-fill: #f0f0f0;
+    -fx-font-size: 22px;
+    -fx-background-radius: 6;
+    -fx-border-color: #3a3a3a;
+    -fx-border-radius: 6;
+
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+.calc-button:hover {
+    -fx-background-color: #3a3a3a;
+}
