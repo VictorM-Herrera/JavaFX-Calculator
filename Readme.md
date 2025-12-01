@@ -81,4 +81,4 @@ src/
 
 ## 📸 Capturas
 
-<img src="https://i.postimg.cc/hGwjXKWv/345shots-so.png" width="800"/>
+<img src="https://i.postimg.cc/hGwjXKWv/345shots-so.png" width="100%" />
