@@ -81,6 +81,6 @@ src/
 
 ## 📸 Capturas
 
-<img src="https://i.postimg.cc/hGwjXKWv/345shots-so.png" width="100%" />
+![Captura](assets/calc.png)
 
 ---
