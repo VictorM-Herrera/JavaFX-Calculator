@@ -81,4 +81,4 @@ src/
 
 ## 📸 Capturas
 
-> ![Calculadora](https://i.postimg.cc/hGwjXKWv/345shots-so.png)
+![Calculadora](https://i.postimg.cc/hGwjXKWv/345shots-so.png)
